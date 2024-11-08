@@ -1,4 +1,6 @@
-
+<h1  align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" width="600" height="300">
+</h1>
 <h1 align="center">Hi 👋, I'm Mohammad Umer</h1>
 <h3 align="center">A Full-Stack Developer from India</h3>
 
