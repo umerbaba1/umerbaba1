@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deveops**
 
-- 💬 Ask me about **React,Node.js,Express,Express**
+- 💬 Ask me about **React , Node.js , Express , MongoDB**
 
 - 📫 How to reach me **umerbab567@gmail.com**
 
